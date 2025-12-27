@@ -19,6 +19,5 @@
 📫 Let's connect:
 - GitHub: https://github.com/hasti-espahlar86
 - Telegram: @hsti_spl
-- LinkedIn: [Add your LinkedIn URL here]
 
 ⚡ Fun fact: I enjoy taking small ideas and turning them into practical projects that make a difference!
