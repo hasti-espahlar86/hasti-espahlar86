@@ -24,9 +24,12 @@
 
 ---
 
-### 🟢 Language Usage in This Repo
+### 🧠 My GitHub Language Stats
 
-![Python](https://img.shields.io/badge/Python-50%25-blue?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-25%25-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-15%25-purple?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-10%25-yellow?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-42%25-3776AB?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-28%25-F7DF1E?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-15%25-E34F26?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-10%25-1572B6?style=for-the-badge)
+![Other](https://img.shields.io/badge/Other-5%25-9C9C9C?style=for-the-badge)
+
+---
