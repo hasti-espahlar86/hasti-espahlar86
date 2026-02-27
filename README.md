@@ -21,3 +21,12 @@
 - Telegram: @hsti_spl
 
 ⚡ Fun fact: I enjoy taking small ideas and turning them into practical projects that make a difference!
+
+---
+
+### 🟢 Language Usage in This Repo
+
+![Python](https://img.shields.io/badge/Python-50%25-blue?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-25%25-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-15%25-purple?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-10%25-yellow?style=for-the-badge)
